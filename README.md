@@ -1,5 +1,5 @@
 # ninja_id
-Made BY AMAN SAINI
+Made BY vinay singh
 A new Flutter project.
 
 ## Getting Started
